@@ -27,3 +27,13 @@
 /home/juliano.hein/myProject/SmartSchool-WebAPI/obj/Debug/net5.0/ref/SmartSchool-WebAPI.dll
 /home/juliano.hein/myProject/SmartSchool-WebAPI/obj/Debug/net5.0/SmartSchool-WebAPI.pdb
 /home/juliano.hein/myProject/SmartSchool-WebAPI/obj/Debug/net5.0/SmartSchool-WebAPI.genruntimeconfig.cache
+/home/juliano.hein/myProject/SmartSchool-WebAPI/bin/Debug/net5.0/Humanizer.dll
+/home/juliano.hein/myProject/SmartSchool-WebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/home/juliano.hein/myProject/SmartSchool-WebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/juliano.hein/myProject/SmartSchool-WebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/juliano.hein/myProject/SmartSchool-WebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/juliano.hein/myProject/SmartSchool-WebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/juliano.hein/myProject/SmartSchool-WebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/juliano.hein/myProject/SmartSchool-WebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/juliano.hein/myProject/SmartSchool-WebAPI/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/juliano.hein/myProject/SmartSchool-WebAPI/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll

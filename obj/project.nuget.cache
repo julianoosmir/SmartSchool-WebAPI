@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vGHv6rMWYLfkKQkWrjuYatcAv0M3ahveDcNA0RrdGDF3Y2UQHHrggMKuYd+VKLd/WyBdVMQLpAN60Bievm8jzg==",
+  "dgSpecHash": "4u4XfoRkonhz1Ejpymvv32IQHwQ2y5bfcu8k3pLbw7dt/M5AgNmijERPNDjJWND7zOBNLcMQKOpxScJxh6VMuQ==",
   "success": true,
   "projectFilePath": "/home/juliano.hein/myProject/SmartSchool-WebAPI/SmartSchool-WebAPI.csproj",
   "expectedPackageFiles": [
     "/home/juliano.hein/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/home/juliano.hein/.nuget/packages/microsoft.aspnetcore.jsonpatch/5.0.0/microsoft.aspnetcore.jsonpatch.5.0.0.nupkg.sha512",
+    "/home/juliano.hein/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/5.0.0/microsoft.aspnetcore.mvc.newtonsoftjson.5.0.0.nupkg.sha512",
     "/home/juliano.hein/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/juliano.hein/.nuget/packages/microsoft.entityframeworkcore/5.0.0/microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
     "/home/juliano.hein/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.0/microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",
@@ -24,6 +26,8 @@
     "/home/juliano.hein/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
     "/home/juliano.hein/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "/home/juliano.hein/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/juliano.hein/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/home/juliano.hein/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "/home/juliano.hein/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "/home/juliano.hein/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "/home/juliano.hein/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
